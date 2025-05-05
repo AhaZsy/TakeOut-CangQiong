@@ -2,11 +2,14 @@
 苍穹外卖
 
 (一）前端配置
-1.下载并且安装nginx
-（1）下载地址：https://nginx.org/en/download.html
-（2）安装在linux平台的效果更好，但是目前是学习阶段，所以跟黑马课程安装在windows平台
+1.打开网盘的资料包：day01-》前端环境
+
 2.步骤
-（1）安装VMware：https://blog.csdn.net/cute_neko/article/details/140409619
-（2）下载镜像：https://blog.csdn.net/m0_51913750/article/details/131594908
-（3）VMware中安装CentOS7：https://blog.csdn.net/cute_neko/article/details/140409619
-（4）VMware中安装CentOS7：https://www.cnblogs.com/Zeros/p/18773079
+（1）文件夹命名要英文名：nginx
+（2）修改conf-》nginx.conf
+![image](https://github.com/user-attachments/assets/734db5ce-990f-456f-8796-a1aa1ea791be)
+把server端口改成：8800,可以参考这个博客：https://www.cnblogs.com/taiyonghai/p/9402734.html
+（3）然后双击nginx.exe
+（4)在搜索栏中输入http://localhost:8800
+
+
